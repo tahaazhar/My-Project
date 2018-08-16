@@ -3,8 +3,8 @@
 
 int main()
 {
-    int x = 8;
-    int y = 9;
+    int x = 9;
+    int y = 20;
 
     printf("x is %i\n", x);
     printf("y is %i\n",y);
